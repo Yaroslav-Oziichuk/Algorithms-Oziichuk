@@ -1,0 +1,15 @@
+C:\Проєкти vs code\Algorithms-Oziichuk\Lab07\bin\Debug\net10.0\Lab07.exe
+C:\Проєкти vs code\Algorithms-Oziichuk\Lab07\bin\Debug\net10.0\Lab07.deps.json
+C:\Проєкти vs code\Algorithms-Oziichuk\Lab07\bin\Debug\net10.0\Lab07.runtimeconfig.json
+C:\Проєкти vs code\Algorithms-Oziichuk\Lab07\bin\Debug\net10.0\Lab07.dll
+C:\Проєкти vs code\Algorithms-Oziichuk\Lab07\bin\Debug\net10.0\Lab07.pdb
+C:\Проєкти vs code\Algorithms-Oziichuk\Lab07\obj\Debug\net10.0\Lab07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Проєкти vs code\Algorithms-Oziichuk\Lab07\obj\Debug\net10.0\Lab07.AssemblyInfoInputs.cache
+C:\Проєкти vs code\Algorithms-Oziichuk\Lab07\obj\Debug\net10.0\Lab07.AssemblyInfo.cs
+C:\Проєкти vs code\Algorithms-Oziichuk\Lab07\obj\Debug\net10.0\Lab07.csproj.CoreCompileInputs.cache
+C:\Проєкти vs code\Algorithms-Oziichuk\Lab07\obj\Debug\net10.0\Lab07.sourcelink.json
+C:\Проєкти vs code\Algorithms-Oziichuk\Lab07\obj\Debug\net10.0\Lab07.dll
+C:\Проєкти vs code\Algorithms-Oziichuk\Lab07\obj\Debug\net10.0\refint\Lab07.dll
+C:\Проєкти vs code\Algorithms-Oziichuk\Lab07\obj\Debug\net10.0\Lab07.pdb
+C:\Проєкти vs code\Algorithms-Oziichuk\Lab07\obj\Debug\net10.0\Lab07.genruntimeconfig.cache
+C:\Проєкти vs code\Algorithms-Oziichuk\Lab07\obj\Debug\net10.0\ref\Lab07.dll
