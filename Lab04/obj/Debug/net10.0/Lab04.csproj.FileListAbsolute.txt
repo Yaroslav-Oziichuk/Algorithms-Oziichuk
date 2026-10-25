@@ -12,3 +12,4 @@ C:\Проєкти vs code\Algorithms-Oziichuk\Lab04\obj\Debug\net10.0\refint\Lab
 C:\Проєкти vs code\Algorithms-Oziichuk\Lab04\obj\Debug\net10.0\Lab04.pdb
 C:\Проєкти vs code\Algorithms-Oziichuk\Lab04\obj\Debug\net10.0\Lab04.genruntimeconfig.cache
 C:\Проєкти vs code\Algorithms-Oziichuk\Lab04\obj\Debug\net10.0\ref\Lab04.dll
+C:\Проєкти vs code\Algorithms-Oziichuk\Lab04\obj\Debug\net10.0\Lab04.sourcelink.json
