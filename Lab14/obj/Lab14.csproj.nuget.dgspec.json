@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Проєкти vs code\\Algorithms-Oziichuk\\Lab14\\Lab14.csproj": {}
+    "C:\\Проєкти vs code\\Algorithms-Oziichuk\\Lab14\\Lab14.csproj": {}
   },
   "projects": {
-    "c:\\Проєкти vs code\\Algorithms-Oziichuk\\Lab14\\Lab14.csproj": {
+    "C:\\Проєкти vs code\\Algorithms-Oziichuk\\Lab14\\Lab14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Проєкти vs code\\Algorithms-Oziichuk\\Lab14\\Lab14.csproj",
+        "projectUniqueName": "C:\\Проєкти vs code\\Algorithms-Oziichuk\\Lab14\\Lab14.csproj",
         "projectName": "Lab14",
-        "projectPath": "c:\\Проєкти vs code\\Algorithms-Oziichuk\\Lab14\\Lab14.csproj",
+        "projectPath": "C:\\Проєкти vs code\\Algorithms-Oziichuk\\Lab14\\Lab14.csproj",
         "packagesPath": "C:\\Users\\arosl\\.nuget\\packages\\",
-        "outputPath": "c:\\Проєкти vs code\\Algorithms-Oziichuk\\Lab14\\obj\\",
+        "outputPath": "C:\\Проєкти vs code\\Algorithms-Oziichuk\\Lab14\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arosl\\AppData\\Roaming\\NuGet\\NuGet.Config"
